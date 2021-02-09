@@ -2,6 +2,7 @@
   "name": "lesson-04",
   "version": "0.1.0",
   "private": true,
+  "main": "./pages/_app.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
